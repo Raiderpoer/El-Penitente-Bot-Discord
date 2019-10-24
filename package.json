@@ -1,0 +1,23 @@
+{
+  "name": "El-Penitente-Bot-Discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raiderpoer/El-Penitente-Bot-Discord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raiderpoer/El-Penitente-Bot-Discord/issues"
+  },
+  "homepage": "https://github.com/Raiderpoer/El-Penitente-Bot-Discord#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
