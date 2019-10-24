@@ -14,6 +14,6 @@ client.on("ready", () => {
  });
 client.on('guildMemberAdd', member => {
         let memberTag = member.user.tag;
-    member.guild.channels.get('636699247626027011').send("<:bell:636962191635120190><:hammer:636966349146554408> Hola <@" + member.id + "> bienvenid@ al servidor de Discord de **El Penitente**!");
+    member.guild.channels.get('636699247626027011').send("<:bell:636962191635120190> Hola <@" + member.id + "> bienvenid@ al servidor de Discord de **El Penitente**!");
 });
 client.login(process.env.BOT_TOKEN); 
